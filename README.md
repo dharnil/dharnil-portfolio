@@ -1,3 +1,24 @@
 # Bun + Vue 3 + TypeScript + Vite
 
-Further Tests will be updated in the documentation within Read based on Trello Tickets.
+# Branch Stack: Bun Vite Vue TS
+Previously Tested on Playground with No Jekyll.
+
+## DIR
+![Screenshot 2024-01-04 at 11 50 42 pm](https://github.com/dharnil/dharnil-portfolio/assets/116938206/11a391bb-ba9b-432c-94cc-686f32219a22)
+
+## Stack Clarification
+### Bun
+Bun is an All in One options for quickly setting up template along side boiler plate code. Though there are three main reasons to choose Bun.
+- Ease of Hosting a development server
+- Responsiveness of the development server
+- Being a bundler and package manager in a one-stop-shop solution
+
+### Vite
+Vite comes bundled when creating a Vue JS app with TS via Bun JS. Its main 
+<img src="https://github.com/dharnil/dharnil-portfolio/assets/116938206/8c168a68-29e4-4a7f-bc88-a5b8d5334e67" width="500" />
+
+### Vue
+Developer friendly Front End JS Framework.
+
+### TS
+Reduction of Post Release Errors.
