@@ -22,3 +22,9 @@ Developer friendly Front End JS Framework.
 
 ### TS
 Reduction of Post Release Errors.
+
+## Research Outcome
+ - Record any or all packages used to create this SPA
+ - Record Each file with its use case
+ - Record Directory and Compartmentalise suitable files.
+ - Record Reason for decision for each above.
