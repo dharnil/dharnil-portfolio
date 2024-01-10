@@ -1,8 +1,5 @@
 # Bun + Vue 3 + TypeScript + Vite
 
-# Branch Stack: Bun Vite Vue TS
-Previously Tested on Playground with No Jekyll.
-
 ## DIR
 ![Screenshot 2024-01-04 at 11 50 42 pm](https://github.com/dharnil/dharnil-portfolio/assets/116938206/11a391bb-ba9b-432c-94cc-686f32219a22)
 
