@@ -1,8 +1,5 @@
 # Bun + Vue 3 + TypeScript + Vite
 
-# Branch Stack: Bun Vite Vue TS
-Previously Tested on Playground with No Jekyll.
-
 ## DIR
 ![Screenshot 2024-01-04 at 11 50 42 pm](https://github.com/dharnil/dharnil-portfolio/assets/116938206/11a391bb-ba9b-432c-94cc-686f32219a22)
 
@@ -22,3 +19,24 @@ Developer friendly Front End JS Framework.
 
 ### TS
 Reduction of Post Release Errors.
+
+## Research Outcome
+ - Record any or all packages used to create this SPA
+ - Record Each file with its use case
+ - Record Directory and Compartmentalise suitable files.
+ - Record Reason for decision for each above.
+
+## Developer Portfolio Spec Sheet
+### Project Page
+ - Project
+ - Company
+ - Tech Stack
+ - Date
+ - Animated Project Thumbnail
+
+
+### Commercial Solutions
+
+### About Section
+
+### Contact Section
