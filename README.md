@@ -27,3 +27,10 @@ Reduction of Post Release Errors.
  - Record Reason for decision for each above.
 
 ## Developer Portfolio Spec Sheet
+### Project Page
+ - Project
+ - Company
+ - Tech Stack
+ - Date
+ - Animated Project Thumbnail
+
