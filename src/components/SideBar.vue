@@ -6,4 +6,6 @@
 </template>
 
 <style scoped>
+#side-bar {
+}
 </style>
