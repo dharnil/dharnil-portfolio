@@ -7,5 +7,6 @@
 
 <style scoped>
 #project {
+    background-color: chocolate;
 }
 </style>
