@@ -7,5 +7,6 @@
 
 <style scoped>
 #about {
+    background-color: brown;
 }
 </style>
