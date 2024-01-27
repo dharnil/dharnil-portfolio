@@ -7,6 +7,5 @@
 
 <style scoped>
 #hero {
-    background-color: cadetblue;
 }
 </style>

@@ -7,6 +7,5 @@
 
 <style scoped>
 #side-bar {
-    background-color: cornflowerblue;
 }
 </style>
