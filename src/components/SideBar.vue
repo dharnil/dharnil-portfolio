@@ -8,5 +8,7 @@
 <style scoped>
 #side-bar {
     background-color: cornflowerblue;
+    width: 100px;
+    height: 100px;
 }
 </style>
