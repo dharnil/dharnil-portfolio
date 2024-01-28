@@ -8,5 +8,7 @@
 <style scoped>
 #about {
     background-color: brown;
+    width: 100px;
+    height: 100px;
 }
 </style>
