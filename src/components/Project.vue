@@ -8,5 +8,7 @@
 <style scoped>
 #project {
     background-color: chocolate;
+    width: 100px;
+    height: 100px;
 }
 </style>

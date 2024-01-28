@@ -8,5 +8,7 @@
 <style scoped>
 #hero {
     background-color: cadetblue;
+    width: 100px;
+    height: 100px;
 }
 </style>
