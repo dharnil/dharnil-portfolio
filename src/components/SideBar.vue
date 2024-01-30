@@ -2,7 +2,7 @@
 </script>
 
 <template>
-    <div id="side-bar"></div>
+    <div id="side-bar">SideBar</div>
 </template>
 
 <style scoped>

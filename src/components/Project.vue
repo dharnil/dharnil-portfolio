@@ -2,7 +2,7 @@
 </script>
 
 <template>
-    <div id="project"></div>
+    <div id="project">Project</div>
 </template>
 
 <style scoped>
