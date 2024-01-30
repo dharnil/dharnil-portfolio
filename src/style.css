@@ -19,6 +19,6 @@ html, body {
   top: var(--pad);
   right: var(--pad);
   bottom: var(--pad);
-  display: block;
+  display: grid;
   border: 1px solid white;
 }
