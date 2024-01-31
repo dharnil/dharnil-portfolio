@@ -10,5 +10,7 @@
     background-color: cadetblue;
     width: 100px;
     height: 100px;
+    text-align: center;
+    line-height: 100px;
 }
 </style>
